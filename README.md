@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Mohamed Saad</h1>
 <h3 align="center">A passionate MERN Stack Developer from Egypt</h3>
 
@@ -207,4 +206,3 @@ https://github.com/mohamed-saa3d/Social-Media-front
 ---
 
 <h3 align="center">💻 Always building, learning, and improving 🚀</h3>
-```
