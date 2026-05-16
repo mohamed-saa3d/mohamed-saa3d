@@ -208,15 +208,16 @@ width="49%"
 
 </p>
 
-<p align="center">
+```
 
+<p align="center">
 <img 
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-saa3d&layout=compact&theme=tokyonight&hide_border=true"
 width="40%"
 />
-
 </p>
 
+```
 ---
 
 # 🧠 Dev Quote
