@@ -236,17 +236,6 @@ width="40%"
 </p>
 
 ---
-```
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/mohamed-saa3d/mohamed-saa3d/output/github-contribution-grid-snake-dark.svg"
-    alt="snake animation"
-  />
-</p>
-```
----
 
 <h3 align="center">
   💻 Always building, learning, and improving 🚀
