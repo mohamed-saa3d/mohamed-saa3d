@@ -236,7 +236,7 @@ width="40%"
 </p>
 
 ---
-
+```
 # 🐍 Contribution Snake
 
 <p align="center">
@@ -245,7 +245,7 @@ width="40%"
     alt="snake animation"
   />
 </p>
-
+```
 ---
 
 <h3 align="center">
