@@ -208,7 +208,6 @@ width="49%"
 
 </p>
 
-```
 
 <p align="center">
 <img 
@@ -217,7 +216,7 @@ width="40%"
 />
 </p>
 
-```
+
 ---
 
 # 🧠 Dev Quote
