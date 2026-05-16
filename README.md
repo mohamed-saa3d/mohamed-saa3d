@@ -2,7 +2,11 @@
 <h3 align="center">A passionate MERN Stack Developer from Egypt</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;MERN+Stack+Developer;Backend+Focused+Engineer;Building+Scalable+Web+Applications;Always+Learning+New+Things" />
+  <img 
+    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdyMmVodmNid2g1OWtxY25lbzZpcnllYTl2MTZmcGxncGlmYXRrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"
+    width="60%"
+    style="max-width: 500px;"
+  />
 </p>
 
 ---
