@@ -235,8 +235,3 @@ width="40%"
   />
 </p>
 
----
-
-<h3 align="center">
-  💻 Always building, learning, and improving 🚀
-</h3>
