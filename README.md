@@ -118,31 +118,6 @@
 
 # 🏆 Featured Projects
 
-## 🎓 EduQuest — E-Learning Platform
-
-🔹 Full-stack MERN e-learning platform with authentication, live sessions, quizzes, certificates, and payment integration.
-
-### ✨ Features
-
-* JWT Authentication & OTP Verification
-* Role-Based Access Control
-* Paymob Payment Integration
-* Live Sessions using WebRTC & Socket.IO
-* Quiz & Certificate System
-* BullMQ + Redis Queue System
-* Analytics Dashboard using Chart.js
-
-### 🔗 Links
-
-🌐 Live Demo
-https://eduquestcourses.netlify.app/
-
-⚙️ Backend
-https://github.com/amedmohmed925/Final-Project-Nodejs
-
-🎨 Frontend
-https://github.com/moHamedsaADHA/e-learning-platform
-
 ---
 
 ## 🛒 E-Mall — Multi Vendor Backend System
@@ -160,8 +135,11 @@ https://github.com/moHamedsaADHA/e-learning-platform
 
 ### 🔗 Links
 
-⚙️ GitHub Repository
+⚙️ Backend 
 https://github.com/mohamed-saa3d/E-MALL-Back
+
+🎨 Frontend 
+https://github.com/mohamed-saa3d/E-MALL-front
 
 ---
 
@@ -180,9 +158,6 @@ https://github.com/mohamed-saa3d/E-MALL-Back
 * Optimized Queries & Caching
 
 ### 🔗 Links
-
-🌐 Live Demo
-https://social-media-app-liard-chi.vercel.app/
 
 ⚙️ Backend
 https://github.com/mohamed-saa3d/Social-Media-back
