@@ -201,7 +201,8 @@ width="40%"
 </p>
 
 ---
-
+?include_all_commits=true&count_private=true
+---
 # 👀 Visitor Counter
 
 <p align="center">
