@@ -172,7 +172,7 @@ https://github.com/mohamed-saa3d/Social-Media-front
 <p align="center">
 
 <img 
-src="https://github-readme-stats.vercel.app/api?username=mohamed-saa3d&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+src="https://github-readme-stats.vercel.app/api?username=mohamed-saa3d&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=1"
 width="49%"
 />
 
@@ -183,14 +183,12 @@ width="49%"
 
 </p>
 
-
 <p align="center">
 <img 
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-saa3d&layout=compact&theme=tokyonight&hide_border=true"
 width="40%"
 />
 </p>
-
 
 ---
 
