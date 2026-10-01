@@ -172,7 +172,7 @@ https://github.com/mohamed-saa3d/Social-Media-front
 <p align="center">
 
 <img 
-src="https://github-readme-stats.vercel.app/api?username=mohamed-saa3d&show_icons=true&theme=tokyonight&hide_border=true"
+src="https://github-readme-stats.vercel.app/api?username=mohamed-saa3d&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
 width="49%"
 />
 
@@ -201,8 +201,7 @@ width="40%"
 </p>
 
 ---
-?include_all_commits=true&count_private=true
----
+
 # 👀 Visitor Counter
 
 <p align="center">
@@ -210,4 +209,3 @@ width="40%"
     src="https://komarev.com/ghpvc/?username=mohamed-saa3d&label=Profile%20Views&color=0e75b6&style=for-the-badge"
   />
 </p>
-
