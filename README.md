@@ -1,16 +1,10 @@
-<h1 align="center">Hi 👋, I'm Mohamed Saad</h1>
-
-<h3 align="center">
+<h1 align="center">Hi 👋, I'm Mohamed Saad</h1><h3 align="center">
   A passionate MERN Stack Developer from Egypt
-</h3>
-
-<p align="center">
+</h3><p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Developer;MERN+Stack+Developer;Backend+Focused+Engineer;Building+Scalable+Web+Applications;Always+Learning+New+Things"
   />
-</p>
-
----
+</p>---
 
 <p align="center">
   <img 
@@ -18,14 +12,12 @@
     width="65%"
     style="max-width:500px;"
   />
-</p>
+</p>---
 
----
+🚀 About Me
 
-## 🚀 About Me
-
-* 🎓 I’m a student at [Faculty of Computers & Informatics, SVNU](http://www.svnu.edu.eg/com/index.html)
-* 🏫 [South Valley National University](http://www.svnu.edu.eg/)
+* 🎓 I’m a student at "Faculty of Computers & Informatics, SVNU" (http://www.svnu.edu.eg/com/index.html)
+* 🏫 "South Valley National University" (http://www.svnu.edu.eg/)
 * 💻 MERN Stack Developer focused on scalable backend systems
 * 🚀 Building full-stack applications with authentication, real-time systems & payment integration
 * 🧠 Currently learning Information Technology & Software Engineering
@@ -34,97 +26,55 @@
 
 ---
 
-## 🌐 Connect With Me
+🌐 Connect With Me
 
-<p align="center">
-
-<a href="mailto:mohammedsaad.v7@gmail.com">
+<p align="center"><a href="mailto:mohammedsaad.v7@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/mohamed-saa3d">
+</a><a href="https://github.com/mohamed-saa3d">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mohamed-saad-dev/">
+</a><a href="https://www.linkedin.com/in/mohamed-saad-dev/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://mohammedsaad.vercel.app/">
+</a><a href="https://mohammedsaad.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://www.behance.net/mohamedsaad579">
+</a><a href="https://www.behance.net/mohamedsaad579">
   <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
-</a>
-
-<a href="https://codeforces.com/profile/Mo7amed_1_saad-">
+</a><a href="https://codeforces.com/profile/Mo7amed_1_saad-">
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
+</a></p>---
 
-</p>
+💻 Tech Stack
 
----
-
-# 💻 Tech Stack
-
-### 🚀 Languages
+🚀 Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,cpp" />
-</p>
-
-### 🎨 Frontend
+</p>🎨 Frontend
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" />
-</p>
-
-### ⚙️ Backend
+</p>⚙️ Backend
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄️ Database
+</p>🗄️ Database
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
-</p>
-
-### 🛠️ Tools & Technologies
+</p>🛠️ Tools & Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,docker,postman,figma,linux,windows,redis" />
-</p>
+</p><p align="center"><img src="https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socket.io"/><img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge"/><img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma"/><img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens"/><img src="https://img.shields.io/badge/BullMQ-red?style=for-the-badge"/><img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/></p>---
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socket.io"/>
-
-<img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma"/>
-
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens"/>
-
-<img src="https://img.shields.io/badge/BullMQ-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
-
-</p>
+🏆 Featured Projects
 
 ---
 
-# 🏆 Featured Projects
-
----
-
-## 🛒 E-Mall — Multi Vendor Backend System
+🛒 E-Mall — Multi Vendor Backend System
 
 🔹 Scalable multi-vendor e-commerce backend system built with Node.js, TypeScript, Prisma, and MongoDB.
 
-### ✨ Features
+✨ Features
 
 * RESTful APIs
 * Product & Order Lifecycle
@@ -133,45 +83,44 @@
 * Vendor Management System
 * Prisma ORM Integration
 
-### 🔗 Links
+🔗 Links
 
-⚙️ Backend 
+⚙️ Backend
 https://github.com/mohamed-saa3d/E-MALL-Back
 
-🎨 Frontend 
+🎨 Frontend
 https://github.com/mohamed-saa3d/E-MALL-front
 
 ---
 
-## 📱 Social Media Platform
+🇵🇸 Gaza Aid Platform — Charity Donation Platform
 
-🔹 MERN social media platform with scalable backend architecture and real-time features.
+🔹 Full-stack charity and donation platform designed to manage donation operations, user access, campaigns, content, notifications, and administrative workflows through a secure role-based architecture.
 
-### ✨ Features
+✨ Features
 
-* JWT Authentication
-* Multi-device Session Management
-* Real-time Notifications
-* Posts, Comments & Chat System
-* Secure Media Upload Pipeline
-* Socket.IO Integration
-* Optimized Queries & Caching
+* Secure JWT Authentication with Access & Refresh Token Flow
+* Multi-Role Authorization for Donors & Administrators
+* 6+ Authentication Flows including Registration, Login, Refresh, Logout, Verification & Password Reset
+* Donation & Wallet Management
+* Category & Content Management System
+* Admin Dashboard for Operational Management
+* Newsletter & Notification Management
+* Protected API & Route-Level Authorization
+* Arabic & English Localization
+* Light & Dark Theme Support
+* RESTful API Architecture with Prisma ORM
+* Structured Backend Modules for Scalable Feature Expansion
 
-### 🔗 Links
+🔗 Live Demo
 
-⚙️ Backend
-https://github.com/mohamed-saa3d/Social-Media-back
-
-🎨 Frontend
-https://github.com/mohamed-saa3d/Social-Media-front
+🌐 https://gaza-aid-platform.vercel.app/
 
 ---
 
-# 📊 GitHub Stats
+📊 GitHub Stats
 
-<p align="center">
-
-<img 
+<p align="center"><img 
 src="https://github-readme-stats.vercel.app/api?username=mohamed-saa3d&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=1"
 width="49%"
 />
@@ -181,26 +130,20 @@ src="https://streak-stats.demolab.com?user=mohamed-saa3d&theme=tokyonight&hide_b
 width="49%"
 />
 
-</p>
-
-<p align="center">
+</p><p align="center">
 <img 
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-saa3d&layout=compact&theme=tokyonight&hide_border=true"
 width="40%"
 />
-</p>
+</p>---
 
----
-
-# 🧠 Dev Quote
+🧠 Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+</p>---
 
----
-
-# 👀 Visitor Counter
+👀 Visitor Counter
 
 <p align="center">
   <img 
